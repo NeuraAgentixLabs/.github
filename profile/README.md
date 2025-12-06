@@ -17,4 +17,5 @@ We build practical AI agents and tooling for cyber-physical systems, energy, and
 - Website: https://neuraagentixlabs.github.io
 - YouTube: https://youtube.com/@AIAgentic-007
 - X/Twitter: https://twitter.com/NeuraAgentixAI
-- Email: neuraagentix@gmail.com
+- Email: neuraagentixlabs@gmail.com
+
